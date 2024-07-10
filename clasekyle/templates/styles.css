@@ -1,0 +1,70 @@
+body {
+    margin: 20px;
+    background: #e65f5f;
+}
+
+h1 {
+    font-family: montserrat;
+    color: blanchedalmond;
+    font-weight:100;
+    font-size: 200px;
+    text-transform: lowercase;
+    text-align: left;
+    line-height: 0.1;
+}
+
+h2 {
+    font-family: montserrat;
+    color: #2c2c2c;
+    font-weight:600;
+    text-transform: lowercase;
+    text-align: left;
+    line-height: 0.1;
+}
+
+p {
+    color:black;
+    font-family: montserrat;
+    font-size: 13px;
+    text-align: start;
+    line-height: 2.4;
+    letter-spacing: 8px;
+    text-transform: lowercase;
+}
+
+.formularios {
+    background: #3ca2bb;
+    padding: 30px;
+    width: 50%;
+}
+
+.form_item {
+    font-family: montserrat;
+    color: white;
+    background: transparent;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid transparent;
+    border-bottom: 1px solid white; 
+}
+
+.form_submit {
+    width: 150px;
+    font-weight: bold;
+    padding: 10px;
+    background: whitesmoke;
+    border: none;
+    border-radius: 8px;
+}
+
+.box {
+    box-sizing:border-box;
+    background: #3ca2bb;
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    margin: 20px 0;
+    border: 3px solid transparent;
+    
+}
